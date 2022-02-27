@@ -1,5 +1,3 @@
-Alt-H1
-======
 #     - 👋 Oi, meu nome é Sérgio , @sammartins81
 ##    - 👀 Eu tenho interesse em Informática forense e segurança da informação.
 ###   - 🌱 Atualmente estou aprendendo um pouco mais sobre Informática, terminando o curso técnico em Informática do  CEFET - MG
