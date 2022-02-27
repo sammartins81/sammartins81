@@ -2,7 +2,7 @@
 ##    - 👀 Eu tenho interesse em Informática forense e segurança da informação.
 ###   - 🌱 Atualmente estou aprendendo um pouco mais sobre Informática, terminando o curso técnico em Informática do  CEFET - MG
 ####  - 💞️ Procuro colaborar, quando está ao meu alcance
-##### - 📫 Como chegar até mim : 
+##### - 📫 Como chegar até mim : https://twitter.com/SergioAMMartins , https://www.facebook.com/sammartinsarts , https://www.instagram.com/s.a.m.martins/ 
 
 <!---
 sammartins81/sammartins81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
